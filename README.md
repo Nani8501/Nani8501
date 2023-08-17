@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jagadeesh and I'm a Student IN Marri Laxman Reddy Institute of Technology and Management, from Hyderabad</h2>
+<h2 align="left">Hi 👋! <br>My name is Jagadeesh <br>I'm a Student IN Marri Laxman Reddy Institute of Technology and Management<br>I am from Hyderabad</h2>
 
 ###
 
