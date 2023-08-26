@@ -25,6 +25,6 @@ I'm Jagadeesh Kokkula, a Computer Science & Engineering student specializing in 
 
 I'm excited to connect with fellow developers, collaborate on innovative projects, and contribute to the tech community. Let's embark on this journey of growth and transformation together!
 
-Feel free to reach out at [Your Email Address](mailto:www.jagadeeshkokkula123.com), and let's connect on [LinkedIn](https://www.linkedin.com/in/jagadeeshkokkula/)!
+Feel free to reach out at [Mail](mailto:www.jagadeeshkokkula123.com), and let's connect on [LinkedIn](https://www.linkedin.com/in/jagadeeshkokkula/)!
 
 Cheers to coding and creativity! 🚀👨‍💻
