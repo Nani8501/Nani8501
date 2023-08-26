@@ -1,33 +1,30 @@
-<h2 align="left">Hi 👋! <br>My name is Jagadeesh <br>I'm a Student at Marri Laxman Reddy Institute of Technology and Management<br>I am from Hyderabad</h2>
+# Hello, GitHub Community! 👋
 
-###
+I'm Jagadeesh Kokkula, a Computer Science & Engineering student specializing in AI and ML at MLRITM. I'm on a journey to become a software engineer and web developer. Here's a glimpse of my journey so far:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+📚 **Education**: Currently pursuing a degree in CSE with a focus on AI and ML.
 
-###
+🔧 **Technical Proficiencies**: Proficient in Python, C, and Java. Passionate about crafting efficient code for a variety of applications.
 
-<div align="left">
-  <a href="https://discordapp.com/users/nani_8501" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:www.jagadeeshkokkula123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/jagadeeshkokkula/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+🏆 **Certifications**:
+- Python Certificates from Kaggle, Google, OpenEDG Python Institute, and HackerRank.
+- Certified in C++ from the C++ Institute.
+- DSA 6-month training and certification as a Smart Coder from Smart Interviews.
 
-###
+💼 **Internship**:
+- Successfully completed a Python Developer Internship at CodeClause, refining my programming skills in real-world projects.
+
+🎨 **Web Design**: Completed responsive web design training at FreeCodeCamp, showcasing my keen eye for designing user-friendly interfaces.
+
+🌟 **Skills**:
+- Adaptive learner with a hunger for staying up-to-date with emerging technologies.
+- Active listening skills and a collaborative mindset for effective teamwork.
+- Strong problem-solving abilities with a methodical approach.
+- Proficient in computer skills, comfortable with diverse tech tools.
+- Effective time management skills for productive project execution.
+
+I'm excited to connect with fellow developers, collaborate on innovative projects, and contribute to the tech community. Let's embark on this journey of growth and transformation together!
+
+Feel free to reach out at [Your Email Address](mailto:www.jagadeeshkokkula123.com), and let's connect on [LinkedIn](https://www.linkedin.com/in/jagadeeshkokkula/)!
+
+Cheers to coding and creativity! 🚀👨‍💻
