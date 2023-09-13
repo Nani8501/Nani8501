@@ -2,9 +2,11 @@
 
 I'm Jagadeesh Kokkula, a Computer Science & Engineering student specializing in AI and ML at MLRITM. I'm on a journey to become a software engineer and web developer. Here's a glimpse of my journey so far:
 
-📚 **Education**: Currently pursuing a degree in CSE with a focus on AI and ML.
+📚 **Education**:
+- Currently pursuing a degree in CSE with a focus on AI and ML.
 
-🔧 **Technical Proficiencies**: Proficient in Python, C, and Java. Passionate about crafting efficient code for a variety of applications.
+🔧 **Technical Proficiencies**:
+- Proficient in Python, C, and Java. Passionate about crafting efficient code for a variety of applications.
 
 🏆 **Certifications**:
 - Python Certificates from Kaggle, Google, OpenEDG Python Institute, and HackerRank.
@@ -14,7 +16,8 @@ I'm Jagadeesh Kokkula, a Computer Science & Engineering student specializing in 
 💼 **Internship**:
 - Successfully completed a Python Developer Internship at CodeClause, refining my programming skills in real-world projects.
 
-🎨 **Web Design**: Completed responsive web design training at FreeCodeCamp, showcasing my keen eye for designing user-friendly interfaces.
+🎨 **Web Design**:
+- Completed responsive web design training at FreeCodeCamp, showcasing my keen eye for designing user-friendly interfaces.
 
 🌟 **Skills**:
 - Adaptive learner with a hunger for staying up-to-date with emerging technologies.
