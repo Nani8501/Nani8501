@@ -8,7 +8,7 @@ I'm Jagadeesh Kokkula, a Computer Science & Engineering student specializing in 
 
 🏆 **Certifications**:
 - Python Certificates from Kaggle, Google, OpenEDG Python Institute, and HackerRank.
-- Certified in C++ from the C++ Institute.
+- Certified in C from the C++ Institute.
 - DSA 6-month training and certification as a Smart Coder from Smart Interviews.
 
 💼 **Internship**:
