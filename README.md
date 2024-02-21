@@ -6,7 +6,7 @@ I'm Jagadeesh Kokkula, a Computer Science & Engineering student specializing in 
 - Currently pursuing a degree in CSE with a focus on AI and ML.
 
 🔧 **Technical Proficiencies**:
-- Proficient in Python, C, and Java. Passionate about crafting efficient code for a variety of applications.
+- Proficient in Angular, Python, C, and Java. Passionate about crafting efficient code for a variety of applications.
 
 🏆 **Certifications**:
 - Python Certificates from Kaggle, Google, OpenEDG Python Institute, and HackerRank.
